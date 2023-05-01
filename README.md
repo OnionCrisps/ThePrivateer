@@ -1,4 +1,4 @@
-# ThePrivateer
+# ThePrivateer.aternos.me
 #### Grab the essential mods from the Release section and copy them into your mods folder.
 
 Privateer Mods
